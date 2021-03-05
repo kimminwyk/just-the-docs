@@ -4,7 +4,7 @@
     "description": "A modern Jekyll theme for documentation",
     "repository": "pmarsceill/just-the-docs",
     "license": "MIT",
-    "bugs": "http://writeup.testexample.kro.kr/just-the-docs/issues",
+    "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
     "devDependencies": {
         "stylelint": "^13.7.2",
         "@primer/css": "^15.2.0",
