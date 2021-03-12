@@ -7,3 +7,7 @@ permalink: /docs/CTFd
 ---
 
 # CTFd Docs
+
+[CTFd Github](https://github.com/CTFd/CTFd)
+
+[Live Demo CTFd](https://demo.ctfd.io/)
