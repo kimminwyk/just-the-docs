@@ -7,7 +7,7 @@ permalink: /docs/Lord-of-SQLInjection
 description: "Lord of SQLInjection wargame site writes up"
 ---
 
-# CTFd Docs
+# Lord of SQLInjection WriteUp
 {: .no_toc }
 
 

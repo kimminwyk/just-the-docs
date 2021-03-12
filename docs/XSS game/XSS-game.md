@@ -7,7 +7,7 @@ permalink: /docs/XSS-game
 description: "XSS-game wargame site writes up"
 ---
 
-# CTFd Docs
+# XSS game WriteUp
 {: .no_toc }
 
 
