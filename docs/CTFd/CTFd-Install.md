@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CTFd
-parent: CTFd Install
+title: CTFd Install
+parent: CTFd
 grand_parent: CTFd
 permalink: /docs/CTFd/CTFd-install
 description: "CTFd Install"
