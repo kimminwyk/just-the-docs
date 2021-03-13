@@ -26,7 +26,9 @@ CTFd는 Capture The Flag 프레임 워크이며 각종 CTF 대회에 쉽게 하�
 
 [Live Demo CTFd](https://demo.ctfd.io/)
 
-![CTFd logo](/post-images/CTFd/index/logo.png)
+![CTFd logo](/post_images/CTFd/index/logo.png)
+
+<br>
 
 + ## Features
     + Create your own challenges, categories, hints, and flags from the Admin Interface
